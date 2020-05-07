@@ -25,7 +25,7 @@
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
 |1|NGINX Ingress Controller for Kubernetes - Contribution Opportunities|N/A|[Session01](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Elvin Efendi](https://www.linkedin.com/in/vurgun/)|
-|2|OS Development|N/A|[Session02](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020/[Emin Guliyev](https://www.linkedin.com/in/vurgun/)|
+|2|OS Development|N/A|[Session02](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Emin Guliyev](https://www.linkedin.com/in/vurgun/)|
 |3|Modern Web Application Security Researching|N/A|[Session03](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Mehemmed Rustamzadeh](https://www.linkedin.com/in/vurgun/)|
 |4|LMS Microservices in production|N/A|[Session04](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Imran Yusubov](https://www.linkedin.com/in/vurgun/)|
 |5|DevOps in Action|N/A|[Session05](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Sako M](https://www.linkedin.com/in/vurgun/)|
