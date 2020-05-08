@@ -39,7 +39,7 @@ Language: English
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
 |1|OS Development|N/A|[Session01]()|10 MAY 2020, 19:00|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|
-|2|Modern Web Application Security Researching|N/A|[Session02]()|10 MAY 202, 19:35|[Mehemmed Rustamzadeh]()|
+|2|Modern Web Application Security|N/A|[Session02]()|10 MAY 202, 19:35|[Mehemmed Rustamzadeh]()|
 |3|LMS Microservices in production|N/A|[Session03]()|10 MAY 2020, 20:45|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
 |4|DevOps in Action|N/A|[Session4]()|10 MAY 2020, 20:10|[Sako M](https://www.linkedin.com/in/sakom/)|
 |5|Build your open source ERP|N/A|[Session05]()|10 MAY 2020, 21:20|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
