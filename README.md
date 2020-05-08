@@ -1,8 +1,9 @@
+# [kiss.conf - keep it stupid simple](https://kiss-conf.goupaz.com/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+
 <p align="center">
   <img width="200" height="200" src="img/kiss_logo.png">
 </p>
 
-# kiss.conf - keep it stupid simple
 
 - [About Us](#aboutus)
 - [Contact](#contact)
