@@ -31,19 +31,19 @@ Language: English
 |2|Getting started with Meshery|N/A|[Session02]()|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
 |3|Open Source driven Career|N/A|[Session03]()|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
 |4|Building Open Source Developer Tool|N/A|[Session04]()|09 MAY 2020, 20:45|[Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)|
-|5|NGINX Ingress Controller for Kubernetes - Contribution Opportunities|N/A|[Session01](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Elvin Efendi](https://www.linkedin.com/in/elvinefendi/)|
+|5|NGINX Ingress Controller for Kubernetes|N/A|[Session01](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020|[Elvin Efendi](https://www.linkedin.com/in/elvinefendi/)|
 
 ##### DAY 02
 
 
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
-|1|OS Development|N/A|[Session02]()|10 MAY 2020|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|
-|2|Modern Web Application Security Researching|N/A|[Session03]()|10 MAY 2020|[Mehemmed Rustamzadeh]()|
-|3|LMS Microservices in production|N/A|[Session04]()|10 MAY 2020|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
-|4|DevOps in Action|N/A|[Session05]()|10 MAY 2020|[Sako M](https://www.linkedin.com/in/sakom/)|
-|5|Build your open source ERP|N/A|[Session06]()|10 MAY 2020|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
-|0|Closing Ceremony|N/A|[Session0]()|09 MAY 2020, 18:45|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
+|1|OS Development|N/A|[Session01]()|10 MAY 2020, 19:00|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|
+|2|Modern Web Application Security Researching|N/A|[Session02]()|10 MAY 202, 19:35|[Mehemmed Rustamzadeh]()|
+|3|LMS Microservices in production|N/A|[Session03]()|10 MAY 2020, 20:45|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
+|4|DevOps in Action|N/A|[Session4]()|10 MAY 2020, 20:10|[Sako M](https://www.linkedin.com/in/sakom/)|
+|5|Build your open source ERP|N/A|[Session05]()|10 MAY 2020, 21:20|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
+|0|Closing Ceremony|N/A|[Session0]()|09 MAY 2020, 22:00|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
 
 
 
