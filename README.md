@@ -3,7 +3,7 @@
   <img width="200" height="200" src="img/kiss_logo.png">
 </p>
 
-Welcome to online conference `kiss.conf - keep it stupid simple` project page!
+`kiss.conf - keep it stupid simple` online conference project!
 
 - [About Us](#aboutus)
 - [Contact](#contact)
