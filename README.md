@@ -2,7 +2,7 @@
 
 Welcome to experience sharing `kiss.conf - keep it stupid simple` project!
 
-           ->![alt text](img/kiss_logo.png)<-
+->![alt text](img/kiss_logo.png)<-
 
 
 - [About Us](#aboutus)
