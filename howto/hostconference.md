@@ -1,8 +1,8 @@
 ## How to host a conference
 
 - [ ] Pre conference
-  - [ ] Find a partner
-  
+  - [ ] Find partners
+  - [ ] Find sponsors
   - [ ] Find a speaker who are top in their field 
   - [ ] Direct message a speaker in linkedin/twitter/email
   - [ ] (Optional) Arrange Zoom call to go through details, concerns, outcomes, success criterias, risks if any to include in CodeOfConduct
