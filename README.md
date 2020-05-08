@@ -17,9 +17,13 @@ Welcome to experience sharing `02hero` project!
 
 ## kiss.conf 2020
 keep it stupid simple
+
 Time: 09-10 May, 18:45-22:00 (GMT+4)
+
 Line: Open Source
+
 Language: English
+
 ![alt text](img/logo.jpg)
 
 ##### DAY 01
