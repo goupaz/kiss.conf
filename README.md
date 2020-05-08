@@ -1,4 +1,4 @@
-# [kiss.conf - keep it stupid simple](https://kiss-conf.goupaz.com/) &middot; 
+# [kiss.conf - keep it stupid simple](https://kiss-conf.goupaz.com/)
 <p align="center">
   <img width="200" height="200" src="img/kiss_logo.png">
 </p>
