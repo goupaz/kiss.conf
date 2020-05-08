@@ -1,4 +1,7 @@
 # Welcome to kiss.conf 
+<p align="center">
+  <img width="300" height="300" src="img/kiss_logo.png">
+</p>
 
 Welcome to online conference `kiss.conf - keep it stupid simple` project page!
 
@@ -6,9 +9,6 @@ Welcome to online conference `kiss.conf - keep it stupid simple` project page!
 - [Contact](#contact)
 - [Host conference](howto/hostconference.md)
 
-<p align="center">
-  <img width="300" height="300" src="img/kiss_logo.png">
-</p>
 
 
 ## kiss.conf 2020
