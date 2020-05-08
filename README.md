@@ -2,8 +2,8 @@
 
 Welcome to experience sharing `kiss.conf - keep it stupid simple` project!
 
-| ![alt text](img/kiss_logo.png) |
-| :--: | 
+           ->![alt text](img/kiss_logo.png)<-
+
 
 - [About Us](#aboutus)
 - [Contact](#contact)
@@ -24,7 +24,7 @@ Language: English
 
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
-|0|Opening Ceremony|N/A|[Session01]()|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
+|0|Opening Ceremony|N/A|[Session0]()|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
 |1|covid19 tech impact|N/A|[Session01]()|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
 |2|Getting started with Meshery|N/A|[Session02]()|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
 |3|Open Source driven Career|N/A|[Session03]()|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
@@ -41,7 +41,7 @@ Language: English
 |3|LMS Microservices in production|N/A|[Session04]()|10 MAY 2020|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
 |4|DevOps in Action|N/A|[Session05]()|10 MAY 2020|[Sako M](https://www.linkedin.com/in/sakom/)|
 |5|Build your open source ERP|N/A|[Session06]()|10 MAY 2020|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
-
+|0|Closing Ceremony|N/A|[Session0]()|09 MAY 2020, 18:45|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
 
 
 
