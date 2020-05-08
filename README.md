@@ -2,7 +2,7 @@
 
 ![alt text](img/banner.png)
 
-Welcome to experience sharing `02hero` project!
+Welcome to experience sharing `kiss.conf` project!
 
 - [About Us](#aboutus)
 - [Contact](#contact)
