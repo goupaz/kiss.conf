@@ -7,7 +7,7 @@ Welcome to online conference `kiss.conf - keep it stupid simple` project page!
 - [Host conference](howto/hostconference.md)
 
 <p align="center">
-  <img width="500" height="500" src="img/kiss_logo.png">
+  <img width="300" height="300" src="img/kiss_logo.png">
 </p>
 
 
