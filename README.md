@@ -3,7 +3,7 @@
 Welcome to experience sharing `kiss.conf - keep it stupid simple` project!
 
 <p align="center">
-  <img width="460" height="300" src="img/kiss_logo.png">
+  <img src="img/kiss_logo.png">
 </p>
 
 - [About Us](#aboutus)
