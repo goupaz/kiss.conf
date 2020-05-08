@@ -1,6 +1,6 @@
 # Welcome to kiss.conf 
 <p align="center">
-  <img width="300" height="300" src="img/kiss_logo.png">
+  <img width="200" height="200" src="img/kiss_logo.png">
 </p>
 
 Welcome to online conference `kiss.conf - keep it stupid simple` project page!
