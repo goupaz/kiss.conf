@@ -2,8 +2,9 @@
 
 Welcome to experience sharing `kiss.conf - keep it stupid simple` project!
 
-->![alt text](img/kiss_logo.png)<-
-
+<p align="center">
+  <img width="460" height="300" src="img/kiss_logo.png">
+</p>
 
 - [About Us](#aboutus)
 - [Contact](#contact)
