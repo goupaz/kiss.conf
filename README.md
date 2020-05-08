@@ -1,9 +1,9 @@
-# [kiss.conf - keep it stupid simple](https://kiss-conf.goupaz.com/)
+
 <p align="center">
   <img width="200" height="200" src="img/kiss_logo.png">
 </p>
 
-
+# [kiss.conf - keep it stupid simple](https://kiss-conf.goupaz.com/)
 - [About Us](#aboutus)
 - [Contact](#contact)
 - [Host conference](howto/hostconference.md)
