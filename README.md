@@ -1,14 +1,15 @@
 # Welcome to kiss.conf 
 
-Welcome to experience sharing `kiss.conf - keep it stupid simple` project!
+Welcome to online conference `kiss.conf - keep it stupid simple` project page!
+
+- [About Us](#aboutus)
+- [Contact](#contact)
+- [Host conference](howto/hostconference.md)
 
 <p align="center">
   <img src="img/kiss_logo.png">
 </p>
 
-- [About Us](#aboutus)
-- [Contact](#contact)
-- [Host conference](howto/hostconference.md)
 
 ## kiss.conf 2020
 
