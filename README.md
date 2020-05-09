@@ -29,7 +29,7 @@ Meeting of Minutes: [Logs](slides/2020/Day01_MoM.pdf)
 |------|----------------------|---------|---|-----|-----|
 |-1|Promo Video|N/A|[Session-1](https://www.youtube.com/watch?v=h2S6tt1GnWM)|08 MAY 2020|[Sako M](https://www.linkedin.com/in/sakom/)|
 |0|Opening Ceremony|[slides](slides/2020/Day01_Session0.pdf)|[Session0](https://www.youtube.com/watch?v=zik-QPs64n0)|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
-|1|covid19 tech impact|[slides](slides/2020/Day01_Session1.pdf)|[Session01](https://www.youtube.com/watch?v=Qdgitknf18U)|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
+|1|covid19 tech impact|[slides](slides/2020/Day01_Session01.pdf)|[Session01](https://www.youtube.com/watch?v=Qdgitknf18U)|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
 |2|Getting started with Meshery|[slides](slides/2020/Day01_Session02.pdf)|[Session02](https://www.youtube.com/watch?v=qHjblquPuio)|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
 |3|Open Source driven Career|[slides](slides/2020/Day01_Session03.pdf)|[Session03](https://www.youtube.com/watch?v=WnW6tc4EeKw)|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
 |4|Building Open Source Developer Tool|[slides](slides/2020/Day01_Session04.pdf)|[Session04](https://www.youtube.com/watch?v=zGpZEmOGziI)|09 MAY 2020, 20:45|[Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)|
