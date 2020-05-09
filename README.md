@@ -25,11 +25,11 @@ Language: English
 
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
-|0|Opening Ceremony|N/A|[Session0]()|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
-|1|covid19 tech impact|N/A|[Session01]()|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
-|2|Getting started with Meshery|N/A|[Session02]()|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
-|3|Open Source driven Career|N/A|[Session03]()|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
-|4|Building Open Source Developer Tool|N/A|[Session04]()|09 MAY 2020, 20:45|[Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)|
+|0|Opening Ceremony|N/A|[Session0](https://www.youtube.com/watch?v=zik-QPs64n0)|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
+|1|covid19 tech impact|N/A|[Session01](https://www.youtube.com/watch?v=Qdgitknf18U)|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
+|2|Getting started with Meshery|N/A|[Session02](https://www.youtube.com/watch?v=qHjblquPuio)|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
+|3|Open Source driven Career|N/A|[Session03](https://www.youtube.com/watch?v=WnW6tc4EeKw)|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
+|4|Building Open Source Developer Tool|N/A|[Session04](https://www.youtube.com/watch?v=zGpZEmOGziI)|09 MAY 2020, 20:45|[Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)|
 |5|NGINX Ingress Controller for Kubernetes|N/A|[Session05](https://www.youtube.com/watch?v=b9VmM1ADnGI)|10 MAY 2020, 21:20|[Elvin Efendi](https://www.linkedin.com/in/elvinefendi/)|
 
 ##### DAY 02
