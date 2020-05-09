@@ -25,6 +25,7 @@ Language: English
 
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
+|-1|Promo Video|N/A|[Session-1](https://www.youtube.com/watch?v=h2S6tt1GnWM)|08 MAY 2020|[Sako M](https://www.linkedin.com/in/sakom/)|
 |0|Opening Ceremony|N/A|[Session0](https://www.youtube.com/watch?v=zik-QPs64n0)|09 MAY 2020, 18:45|[Sako M](https://www.linkedin.com/in/sakom/)|
 |1|covid19 tech impact|N/A|[Session01](https://www.youtube.com/watch?v=Qdgitknf18U)|09 MAY 2020, 19:00|[Vurgun Hajiyev](https://www.linkedin.com/in/vurgun/)<br> [Garib M](https://www.linkedin.com/in/garibmehdiyev/)|
 |2|Getting started with Meshery|N/A|[Session02](https://www.youtube.com/watch?v=qHjblquPuio)|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
