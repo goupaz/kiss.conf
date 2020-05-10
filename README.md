@@ -33,7 +33,7 @@ Meeting of Minutes: [Logs](slides/2020/Day01_MoM.pdf)
 |2|Getting started with Meshery|[slides](slides/2020/Day01_Session02.pdf)|[Session02](https://www.youtube.com/watch?v=qHjblquPuio)|09 MAY 2020, 19:35|[Lee Calcote](https://www.linkedin.com/in/leecalcote/)|
 |3|Open Source driven Career|[slides](slides/2020/Day01_Session03.pdf)|[Session03](https://www.youtube.com/watch?v=WnW6tc4EeKw)|09 MAY 2020,20:10|[Elshad Agayev](https://www.linkedin.com/in/elshadaghazadeh/)|
 |4|Building Open Source Developer Tool|[slides](slides/2020/Day01_Session04.pdf)|[Session04](https://www.youtube.com/watch?v=zGpZEmOGziI)|09 MAY 2020, 20:45|[Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)|
-|5|NGINX Ingress Controller for Kubernetes|[slides](slides/2020/Day01_Session05.pdf)|[Session05](https://www.youtube.com/watch?v=fxm6zwyycvA)|10 MAY 2020, 21:20|[Elvin Efendi](https://www.linkedin.com/in/elvinefendi/)|
+|5|NGINX Ingress Controller for Kubernetes|[slides](slides/2020/Day01_Session05.pdf)|[Session05](https://www.youtube.com/watch?v=fxm6zwyycvA)|09 MAY 2020, 21:20|[Elvin Efendi](https://www.linkedin.com/in/elvinefendi/)|
 
 ##### DAY 02
 
@@ -45,7 +45,7 @@ Meeting of Minutes: [Logs](slides/2020/Day01_MoM.pdf)
 |3|LMS Microservices in production|N/A|[Session03]()|10 MAY 2020, 20:45|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
 |4|DevOps in Action|N/A|[Session4]()|10 MAY 2020, 20:10|[Sako M](https://www.linkedin.com/in/sakom/)|
 |5|Build your open source ERP|N/A|[Session05]()|10 MAY 2020, 21:20|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
-|0|Closing Ceremony|N/A|[Session0]()|09 MAY 2020, 22:00|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
+|0|Closing Ceremony|N/A|[Session0]()|10 MAY 2020, 22:00|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
 
 
 
