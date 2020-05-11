@@ -18,7 +18,8 @@ Line: Open Source
 
 Language: English
 
-Meeting of Minutes: [Logs](slides/2020/Day01_MoM.pdf)
+Meeting of Minutes: [Day01](slides/2020/Day01_MoM.pdf)
+                    [Day02](slides/2020/Day02_MoM.pdf)
 
 ![alt text](img/logo.jpg)
 
@@ -40,12 +41,12 @@ Meeting of Minutes: [Logs](slides/2020/Day01_MoM.pdf)
 
 |No| Topic | PPT| Video |Date|Mentor|
 |------|----------------------|---------|---|-----|-----|
-|1|OS Development|N/A|[Session01]()|10 MAY 2020, 19:00|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|
-|2|Modern Web Application Security|N/A|[Session02]()|10 MAY 202, 19:35|[Mehemmed Rustamzadeh]()|
-|3|LMS Microservices in production|N/A|[Session03]()|10 MAY 2020, 20:45|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
-|4|DevOps in Action|N/A|[Session4]()|10 MAY 2020, 20:10|[Sako M](https://www.linkedin.com/in/sakom/)|
-|5|Build your open source ERP|N/A|[Session05]()|10 MAY 2020, 21:20|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
-|0|Closing Ceremony|N/A|[Session0]()|09 MAY 2020, 22:00|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
+|1|OS Development|[slides](slides/2020/Day02_Session06.pdf)|[Session06](https://www.youtube.com/watch?v=ANkPw-osORI)|10 MAY 2020, 19:00|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|
+|2|Modern Web Application Security|[slides](slides/2020/Day02_Session07.pdf)|[Session07](https://www.youtube.com/watch?v=EEaWrE7PKM8)|10 MAY 202, 19:35|[Mehemmed Rustamzadeh]()|
+|3|LMS Microservices in production|[slides](slides/2020/Day02_Session08.pdf)|[Session08](https://www.youtube.com/watch?v=EQla8eXqrxI)|10 MAY 2020, 20:45|[Imran Yusubov](https://www.linkedin.com/in/imran-yusubov-9334744a/)|
+|4|DevOps in Action|[slides](slides/2020/Day02_Session09.pdf)|[Session9](https://www.youtube.com/watch?v=DgJ3386VdXA)|10 MAY 2020, 20:10|[Sako M](https://www.linkedin.com/in/sakom/)|
+|5|Build your open source ERP|[slides](slides/2020/Day02_Session10.pdf)|[Session10](https://www.youtube.com/watch?v=RmLtBhs_qx4)|10 MAY 2020, 21:20|[Jumshud Sultanov](https://www.linkedin.com/in/jumshudsultan/)<br> [Nurlan Farajov](https://www.linkedin.com/in/nurlan-farajov/)|
+|0|Closing Ceremony|N/A|[N/A|10 MAY 2020, 22:00|[Nabi N](https://www.linkedin.com/in/nabi-nabizade/)|
 
 
 
