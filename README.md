@@ -19,6 +19,7 @@ Line: Open Source
 Language: English
 
 Meeting of Minutes: [Day01](slides/2020/Day01_MoM.pdf)
+
                     [Day02](slides/2020/Day02_MoM.pdf)
 
 ![alt text](img/logo.jpg)
